@@ -1,4 +1,5 @@
 # Vehiculium
+Current Version {2}
 
 Vehiculum is an embedded systems project that uses GPS data to track distance traveled and automatically determine when vehicle maintenance is due via display.
 
@@ -14,9 +15,9 @@ This project shows my progress as I test and improve the system through many dif
 
 ## Hardware Used 
 
-- Ardunio Nano
+- ESP-32
 - NEO-6M GPS
-- SSD1306 OLED I2C
+- SSD1309 OLED SPI
 
 ## License
 
