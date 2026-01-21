@@ -1,4 +1,4 @@
-# Vehiculium
+# Vehiculum
 Current Version {2}
 
 Vehiculum is an embedded systems project that uses GPS data to track distance traveled and automatically determine when vehicle maintenance is due via display.
