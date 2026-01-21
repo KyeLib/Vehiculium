@@ -1,3 +1,7 @@
+Version 1 used:
+- Arduino nano
+- Neo-6M GPS
+- SSD1306 0.96 inch oled I2C screen
 
 I started this project because I wanted a simple device that tells me when vehicle maintenance is due. I kept forgetting to check the notebook I keep in my car, so I decided to build a device that is always visible and automatically reminds me.
 
@@ -8,5 +12,6 @@ I’ve been thinking about making a custom enclosure to keep everything together
 CONCERNS:
 
 One concern is the display size. The 0.96 inch OLED screen is very small, so I’m planning to upgrade to a larger display. I found a 2 inch screen online that I think will be much easier to read and a better fit for my car.
+
 
 Another concern is power. Eventually I want the device to run independently, so I’ve started looking into Li-ion batteries, but I’m not fully sure about that yet. I’ve also thought about powering it from the car’s cigarette lighter and converting the voltage to power the device. That option seems like the best solution since the device would only run when the car is on, and it removes the need to worry about charging a battery.
